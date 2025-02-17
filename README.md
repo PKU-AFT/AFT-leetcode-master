@@ -394,24 +394,3 @@
 # 算法模板 
 
 [各类基础算法模板](https://github.com/youngyangyang04/leetcode/blob/master/problems/算法模板.md)
-
-# 贡献者 
-
-[点此这里](https://github.com/youngyangyang04/leetcode-master/graphs/contributors)查看LeetCode-Master的所有贡献者。感谢他们补充了LeetCode-Master的其他语言版本，让更多的读者受益于此项目。
-
-# Star 趋势
-
-[![Star History Chart](https://api.star-history.com/svg?repos=youngyangyang04/leetcode-master&type=Date)](https://star-history.com/#youngyangyang04/leetcode-master&Date)
-
-# 关于作者
-
-大家好，我是程序员Carl，哈工大师兄，《代码随想录》作者，先后在腾讯和百度从事后端技术底层技术研发。
-
-# PDF下载 
-
-添加如下企业微信，会自动发送给大家PDF版本，顺便可以选择是否加入刷题群。 
-
-添加微信记得备注，如果是已工作，备注：姓名-城市-岗位。如果学生，备注：姓名-学校-年级。**备注没有自我介绍不通过哦**
-
-<div align="center"><img src="https://code-thinking-1253855093.file.myqcloud.com/pics/第二企业刷题活码.png" data-img="1" width="200" height="200"></img></div>
-
