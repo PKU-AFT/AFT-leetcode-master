@@ -1,5 +1,6 @@
 ![AFT无限进步](https://www.helloimg.com/i/2025/02/17/67b2ed3fa6a79.jpg#pic_center)
 ## 写在前面
+```HTML
 <center>
 这里仅保留刷题顺序。<br>
 各主题下刷题难度渐进，<br>
@@ -9,7 +10,7 @@
 则证明该主题需在一周内刷完。<br>
 开刷！！！
 </center>
-
+```
 
 ## 数组 
 
