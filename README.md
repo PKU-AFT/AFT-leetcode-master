@@ -1,6 +1,8 @@
 ![AFT无限进步](https://www.helloimg.com/i/2025/02/17/67b2ed3fa6a79.jpg#pic_center)
 ## 写在前面<br>
 
+原仓库地址：[代码随想录](https://github.com/youngyangyang04/leetcode-master/tree/master?tab=readme-ov-file)
+
 <center>
 这里仅保留刷题顺序。<br>
 各主题下刷题难度渐进，<br>
