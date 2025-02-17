@@ -5,8 +5,11 @@
 原仓库地址：[代码随想录](https://github.com/youngyangyang04/leetcode-master/tree/master?tab=readme-ov-file)
 
 这里仅保留经典题刷题顺序。
+
 依据自身情况和进度选择。
-[「补充题目」](##补充题目)部分欢迎大家PR优质有意思的题目。
+
+[「补充题目」](#补充题目)部分欢迎大家PR优质有意思的题目。
+
 开刷！！！
 
 
