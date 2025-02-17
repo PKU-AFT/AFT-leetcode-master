@@ -1,4 +1,4 @@
-![AFT无限进步](https://www.helloimg.com/i/2025/02/17/67b2eb772ca18.png#pic_center)
+![AFT无限进步](https://www.helloimg.com/i/2025/02/17/67b2ed3fa6a79.jpg#pic_center)
 ## 写在前面
 这里仅保留刷题顺序。
 各主题下刷题难度渐进，
