@@ -1,4 +1,4 @@
-![AFT无限进步](https://www.helloimg.com/i/2025/02/17/67b2ed3fa6a79.jpg#pic_center)
+![AFT无限进步](pic/AFT-Forwarding.jpg)
 
 ## 写在前面<br>
 
