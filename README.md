@@ -1,4 +1,4 @@
-![AFT无限进步](pic/AFT-Forwarding.jpg)
+![AFT无限进步](pics/AFT-Forwarding.jpg)
 
 ## 写在前面<br>
 
